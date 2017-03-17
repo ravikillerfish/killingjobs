@@ -1,0 +1,4 @@
+#! /bin/bash
+string='hello there'
+echo=$how are u
+exit
