@@ -1,4 +1,4 @@
 #! /bin/bash
 string='hello there'
-echo=$how are u
+echo=$how are u there
 exit
